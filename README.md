@@ -15,4 +15,4 @@ ix. Erosion Filter
 x. Smoothing filters
 xi. Noise Correction
 
-# Note: The project is in progress, preprocess techniques are under way
+# Note: The project is in progress, preprocessing techniques are under way
