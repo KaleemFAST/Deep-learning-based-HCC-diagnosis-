@@ -18,5 +18,5 @@ x. Smoothing filters
 xi. Noise Correction
 # Median Filter
 Median filter is applied kernel size=2 the results are as follows 1. Original image 2. Preprocessed image
-![](/images/Original.png) ![](/images/Preprocessed.png)
+![](/images/Original.PNG) ![](/images/Preprocessed.PNG)
 # Note: The project is in progress, preprocessing techniques are under way
